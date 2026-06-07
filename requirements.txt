@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+langsmith
+langchain-chroma
+langchain-community
+langchain-text-splitters
+langchain-huggingface
+chromadb
+pypdf
+python-dotenv
+sentence-transformers
+ragas>=0.1.0,<0.2.0
+datasets

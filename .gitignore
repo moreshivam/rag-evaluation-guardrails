@@ -1,0 +1,28 @@
+# secrets
+.env
+
+# generated vectorstore (large, reproducible via ingest.py)
+vectorstore/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# evaluation output
+evaluation/evaluation_results.json

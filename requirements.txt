@@ -1,6 +1,8 @@
 langchain
 langchain-groq
 langsmith
+fastapi
+uvicorn
 langchain-chroma
 langchain-community
 langchain-text-splitters
@@ -9,5 +11,5 @@ chromadb
 pypdf
 python-dotenv
 sentence-transformers
-ragas>=0.1.0,<0.2.0
+ragas
 datasets
